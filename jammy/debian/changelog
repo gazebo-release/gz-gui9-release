@@ -1,17 +1,5 @@
-gz-gui7 (7.0.0-1~jammy) jammy; urgency=medium
+gz-gui8 (7.999.999-1~jammy) jammy; urgency=medium
 
-  * gz-gui7 7.0.0-1 release
+  * Stub to be removed after first entry
 
- -- Nate Koenig <nate@openrobotics.org>  Tue, 27 Sep 2022 04:35:37 -0700
-
-gz-gui7 (7.0.0~pre1-1~jammy) jammy; urgency=medium
-
-  * gz-gui7 7.0.0~pre1-1 release
-
- -- Louise Poubel <louise@openrobotics.org>  Wed, 31 Aug 2022 19:10:05 -0700
-
-gz-gui7 (6.999.999-1~jammy) jammy; urgency=medium
-
-  * First release for jammy
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 23 Mar 2022 16:14:58 +0100
+ -- Ian Chen <ichen@openrobotics.org>  Wed, 07 Dec 2022 17:27:18 -0700
