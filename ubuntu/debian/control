@@ -11,7 +11,7 @@ Build-Depends: cmake,
                libgz-math7-dev,
                libgz-msgs9-dev,
                libgz-plugin2-dev,
-               libgz-rendering7-ogre1-dev,
+               libgz-rendering8-ogre1-dev,
                libgz-tools2-dev,
                libgz-transport12-dev,
                libgz-utils2-dev,
@@ -62,7 +62,7 @@ Depends: libgz-cmake3-dev,
          libgz-math7-dev,
          libgz-msgs9-dev,
          libgz-plugin2-dev,
-         libgz-rendering7-ogre1-dev,
+         libgz-rendering8-ogre1-dev,
          libgz-tools2-dev,
          libgz-transport12-dev,
          libgz-utils2-dev,
@@ -92,19 +92,3 @@ Description: Gazebo Gui classes and functions for robot apps - Development files
  designed to rapidly develop robot applications.
  .
  Package for development libraries and headers.
-
-Package: libignition-gui8
-Depends: libgz-gui8, ${misc:Depends}
-Architecture: all
-Priority: optional
-Section: oldlibs
-Description: transitional package
- This is a transitional package. It can safely be removed.
-
-Package: libignition-gui8-dev
-Depends: libgz-gui8-dev, ${misc:Depends}
-Architecture: all
-Priority: optional
-Section: oldlibs
-Description: transitional package
- This is a transitional package. It can safely be removed.
